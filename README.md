@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Descomplicando Kubernetes](https://github.com/badtuxx/DescomplicandoKubernetes)
 
-- 👨‍💻 All of my projects are available at [Under Development](Under Development)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/felipefreitasdeoliveira)
 
 - 📝 I regularly write articles on [Under Development](Under Development)
 
