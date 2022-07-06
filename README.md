@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipefreitasdeoliveira&label=Profile%20views&color=0e75b6&style=flat" alt="felipefreitasdeoliveira" /> </p>
 
 
-- 🔭 I’m currently working on [BRLink](www.brlink.com.br)
+- 🔭 I’m currently working on [Avenue](www.avenue.us)
 
 - 🌱 I’m currently learning **Flask, Django, APIs,Terraform, Kubernetes**
 
@@ -20,7 +20,8 @@
 
 - 📫 How to reach me **oliveife@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/oliveife/](https://www.linkedin.com/in/oliveife/)
+
+- ![[Linkedin]](https://i.stack.imgur.com/gVE0j.png) Know about my experiences [https://www.linkedin.com/in/oliveife/](https://www.linkedin.com/in/oliveife/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
